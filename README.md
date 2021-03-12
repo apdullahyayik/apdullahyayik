@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="out.gif" width="450" height="650">
+<img src="out.gif" width="250" height="350">
    
 <!--
 **apdullahyayik/apdullahyayik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
