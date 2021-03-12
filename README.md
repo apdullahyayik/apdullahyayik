@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](out.gif)
+![0.5](out.gif)
 
 <!--
 **apdullahyayik/apdullahyayik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
