@@ -3,9 +3,9 @@
 
 <div align="center">
    
-⚡ Fun fact: I am a former signal processing researcher but have made a smooth transition into NLP
+⚡ Fun fact: I Love NLP and biomedical signals
 
-🔭 I’m currently working on topic classification for the Turkish Language with the usage of:
+🔭 I’m currently working on topic classification task for the Turkish Language with the usage of:
 
    BERT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DZ5T4Ieog2q1-SRV-UNU2qvsECT-gxBj?authuser=1)
 
@@ -19,8 +19,8 @@
 
 🌱 I’m currently exploring superoities of 
  <ul>
-  <li>**Attention** over convolution and reccurence,</li>
-  <li>Word embeddings with **WordPiece** algorithm over CBOV and skip-gram</li>
+  <li>Attention over convolution and reccurence,</li>
+  <li>Word embeddings with WordPiece algorithm over CBOV and skip-gram</li>
 </ul> 
  
    
