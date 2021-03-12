@@ -15,15 +15,12 @@
 
 
 
-
-
-
 💬 You can ask me about linear algebra, NLP
 
 🌱 I’m currently exploring superoities of 
  <ul>
-  <li>Attention over convolution and reccurence,</li>
-  <li>Word embedding with WordPiece algorithm over CBOV and skip-gram</li>
+  <li>**Attention** over convolution and reccurence,</li>
+  <li>Word embeddings with **WordPiece** algorithm over CBOV and skip-gram</li>
 </ul> 
  
    
