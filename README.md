@@ -2,8 +2,10 @@
 
 
 <div align="center">
-   
+ 
 ⚡ Fun fact: I Love NLP and biomedical signals
+
+:pushpin: Tr-Tokenizer and TrTopicter projects are now available at Pypi (pip install trtokenizer & pip install trtopicter)
 
 🔭 I’m currently working on topic classification task for the Turkish Language with the usage of:
 
