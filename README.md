@@ -7,12 +7,7 @@
 
 :pushpin: Tr-Tokenizer and TrTopicter projects are now available at Pypi (pip install trtokenizer & pip install trtopicter)
 
-🔭 I’m currently working on topic classification task for the Turkish Language with the usage of:
-
-   BERT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DZ5T4Ieog2q1-SRV-UNU2qvsECT-gxBj?authuser=1)
-
-
-   BERTurk [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/196wEPGPzEqQW8wQY2zUvhH_AWrOTxred?authuser=1)
+🔭 I’m currently working on topic classification task for the Turkish Language with the usage of BERT and BERTurk [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/196wEPGPzEqQW8wQY2zUvhH_AWrOTxred?authuser=1)
 
 
 
@@ -29,11 +24,9 @@
 
 📫 How to reach me: apdullahyayik@gmail.com
 
-**Checkout one of my tutorial:**
+**Checkout my recent tutorial:**
 
-[<img width="300" src="https://github.com/apdullahyayik/Nesne-Tanima-Bolutleme/blob/master/medium.png">](https://medium.com/@apdullahyayik/mask-rcnn-object-recognition-and-segmentation-with-colab-application-cd0b5e490130)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NT5InAljpJroLBW44TObneislSnQmyz5?usp=sharing)
+[<img width="300" src="https://github.com/apdullahyayik/apdullahyayik/blob/main/berturk.png">](https://apdullahyayik.medium.com/end-to-end-text-classification-with-berturk-a859d64aa265)
 
 
 <!-- <img src="out.gif" width="250" height="350"><!-- 
