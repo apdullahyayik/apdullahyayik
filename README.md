@@ -3,7 +3,10 @@
 
 <div align="center">
  
-⚡ Fun fact: I Love NLP and biomedical signals
+ 
+💬 You can ask me about linear algebra, NLP and optimization techniques.
+ 
+⚡ Fun fact: I also love biomedical signal processing.
 
 :pushpin: Tr-Tokenizer and TrTopicter projects are now available at Pypi (pip install trtokenizer & pip install trtopicter)
 
@@ -11,14 +14,11 @@
 
 
 
-
-💬 You can ask me about linear algebra, NLP
-
 🌱 I’m currently exploring superoities of 
- <ul>
-  <li>Attention over convolution and reccurence,</li>
-  <li>Word embeddings with WordPiece algorithm over CBOV and skip-gram</li>
-</ul> 
+      <ul>
+       <li>Attention over convolution and reccurence,</li>
+       <li>Word embeddings with WordPiece algorithm over CBOV and skip-gram</li>
+     </ul> 
  
    
 
