@@ -3,8 +3,9 @@
 
 <div align="center">
  
- 
-💬 You can ask me about linear algebra, NLP and optimization techniques.
+👯 I’m AI Researcher at Huawei Turkey R&D Center.
+
+💬 You can ask me about linear algebra, NLP, Recommendation Systems (this is current interest) and optimization techniques.
  
 ⚡ Fun fact: I also love biomedical signal processing.
 
@@ -16,6 +17,7 @@
 
 🌱 I’m currently exploring superoities of 
       <ul>
+        <li>Deep Neural Recommendation Systems,</li>
        <li>Attention over convolution and reccurence,</li>
        <li>Word embeddings with WordPiece algorithm over CBOV and skip-gram</li>
      </ul> 
