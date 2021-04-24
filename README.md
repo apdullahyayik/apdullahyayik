@@ -19,7 +19,7 @@
       <ul>
         <li>Deep Neural Recommendation Systems,</li>
        <li>Attention over convolution and reccurence,</li>
-       <li>Word embeddings with WordPiece algorithm over CBOV and skip-gram</li>
+       <li>Word embeddings with WordPiece algorithm over neural ones such as CBOV and Skip-Gram</li>
      </ul> 
  
    
