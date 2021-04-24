@@ -16,7 +16,6 @@
 
 
 🌱 I’m currently exploring superoities of 
-
       <ul>
         <li>Deep Neural Recommendation Systems,</li>
        <li>Attention over convolution and reccurence,</li>
@@ -24,8 +23,7 @@
      </ul> 
  
    
-
-📫 How to reach me: apdullahyayik@gmail.com
+📫 How to reach me-> official: apdullah.yayik@huawei.com, personal: apdullahyayik@gmail.com
 
 **Checkout my recent tutorial:**
 
