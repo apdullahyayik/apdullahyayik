@@ -11,7 +11,7 @@
 
 :pushpin: Tr-Tokenizer and TrTopicter projects are now available at Pypi (pip install trtokenizer & pip install trtopicter)
 
-🔭 I’m currently working on topic classification task for the Turkish Language with the usage of BERT and BERTurk [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/196wEPGPzEqQW8wQY2zUvhH_AWrOTxred?authuser=1)
+🔭 I’ve recently worked on topic classification task for the Turkish Language with the usage of BERT and BERTurk [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/196wEPGPzEqQW8wQY2zUvhH_AWrOTxred?authuser=1)
 
 
 
