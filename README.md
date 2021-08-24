@@ -7,9 +7,10 @@
 
 💬 You can ask me about linear algebra, NLP, Recommendation Systems (this is current interest) and optimization techniques.
  
-⚡ Fun fact: I also love biomedical signal processing.
+⚡ Besides: I also love biomedical signal processing.
 
 :pushpin: trtokenizer and trtopicter projects are now available at Pypi (pip install trtokenizer & pip install trtopicter)
+ 
 :push trtokenizer==0.0.3 has been released!
 
 🔭 I’ve recently worked on topic classification task for the Turkish Language with the usage of BERT and BERTurk [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/196wEPGPzEqQW8wQY2zUvhH_AWrOTxred?authuser=1)
