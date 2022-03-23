@@ -24,11 +24,8 @@
      </ul> 
  
    
-📫 How to reach me-> official: apdullah.yayik@huawei.com, personal: apdullahyayik@gmail.com
+📫 How to reach me-> official: apdullah.yayik@kontist.com, personal: apdullahyayik@gmail.com
 
-**Checkout my recent tutorial:**
-
-[<img width="300" src="https://github.com/apdullahyayik/apdullahyayik/blob/main/berturk.png">](https://apdullahyayik.medium.com/end-to-end-text-classification-with-berturk-a859d64aa265)
 
 
 <!-- <img src="out.gif" width="250" height="350"><!-- 
