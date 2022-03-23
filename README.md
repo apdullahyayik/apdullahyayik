@@ -3,9 +3,8 @@
 
 <div align="center">
  
-👯 I’m AI Researcher at Huawei Turkey R&D Center.
 
-💬 You can ask me about linear algebra, NLP, Recommendation Systems (this is current interest) and optimization techniques.
+💬 You can ask me about linear algebra, NLP, Recommendation Systems and optimization techniques.
  
 ⚡ Besides: I also love biomedical signal processing.
 
