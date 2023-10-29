@@ -1,49 +1,31 @@
-### Hi I'm Apdullah 👋
+# About Me
+
+## AI Researcher | Information Retrieval | Document Understanding | Recommender Engine | Search Engine 
+
+Welcome to my GitHub profile! I am an AI researcher with a strong focus on cutting-edge technologies and solutions in the fields of Information Retrieval, Recommender Engines, Search Engines, and Document Understanding using Artificial Intelligence. 
+
+With a passion for solving complex problems and a commitment to advancing the field of AI, I am dedicated to creating innovative and practical solutions that enhance the way we interact with and extract knowledge from vast datasets.
+
+## What I Do
+
+- **Information Retrieval**: My work in Information Retrieval involves designing and implementing algorithms and systems for efficient data retrieval. I'm constantly exploring techniques to extract valuable insights from large datasets and make information easily accessible.
+
+- **Recommender Engines**: I specialize in building personalized recommendation systems that provide users with tailored content or products. These systems help enhance user experiences and drive engagement.
+
+- **Document Understanding with AI**: I focus on utilizing AI to extract structured information from unstructured text. This includes tasks like sentiment analysis, topic modeling, and document classification.
+
+- **Search Engines**: Developing powerful search engines that deliver relevant results quickly and accurately is a key area of my expertise. I'm interested in the latest advancements in search technology and natural language processing.
 
 
-<div align="center">
- 
+## My Contributions
 
-💬 You can ask me about linear algebra, NLP, Recommendation Systems and optimization techniques.
- 
-⚡ Besides: I also love biomedical signal processing.
+Here on GitHub, you'll find a collection of projects, code snippets, and research findings related to my work. Feel free to explore and use these resources as references for your own projects or research endeavors.
 
-:pushpin: trtokenizer and trtopicter projects are now available at Pypi (pip install trtokenizer & pip install trtopicter)
- 
-:pushpin: trtokenizer==0.0.3 has been released!
+## Let's Collaborate
 
-🔭 I’ve recently worked on topic classification task for the Turkish Language with the usage of BERT and BERTurk [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/196wEPGPzEqQW8wQY2zUvhH_AWrOTxred?authuser=1)
+I'm always open to collaborations, discussions, and knowledge sharing. If you're working on similar topics or have an interest in AI and its applications, don't hesitate to reach out. Let's work together to push the boundaries of what AI can achieve.
 
+## Get in Touch
 
-
-🌱 I’m currently exploring superoities of 
-      <ul>
-        <li>Deep Neural Recommendation Systems,</li>
-       <li>Attention over convolution and reccurence,</li>
-       <li>Word embeddings with WordPiece algorithm over neural ones such as CBOV and Skip-Gram</li>
-     </ul> 
- 
-   
-📫 How to reach me-> official: apdullah.yayik@kontist.com, personal: apdullahyayik@gmail.com
-
-
-
-<!-- <img src="out.gif" width="250" height="350"><!-- 
-   
-<!--
-**apdullahyayik/apdullahyayik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!-- 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-</div>
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/apdullahyayik/)
+- Email: apdullahyayik@gmail.com
