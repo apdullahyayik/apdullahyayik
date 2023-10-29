@@ -1,6 +1,6 @@
 # About Me
 
-## AI Researcher | Information Retrieval | Document Understanding | Recommender Engine | Search Engine 
+## AI Researcher | Information Retrieval | Document Understanding | Recommender Engine 
 
 Welcome to my GitHub profile! I am an AI researcher with a strong focus on cutting-edge technologies and solutions in the fields of Information Retrieval, Recommender Engines, Search Engines, and Document Understanding using Artificial Intelligence. 
 
@@ -13,8 +13,6 @@ With a passion for solving complex problems and a commitment to advancing the fi
 - **Recommender Engines**: I specialize in building personalized recommendation systems that provide users with tailored content or products. These systems help enhance user experiences and drive engagement.
 
 - **Document Understanding with AI**: I focus on utilizing AI to extract structured information from unstructured text. This includes tasks like sentiment analysis, topic modeling, and document classification.
-
-- **Search Engines**: Developing powerful search engines that deliver relevant results quickly and accurately is a key area of my expertise. I'm interested in the latest advancements in search technology and natural language processing.
 
 
 ## My Contributions
