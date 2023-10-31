@@ -1,7 +1,19 @@
+<p align='center'>
+  Follow me for more!
+  <br>
+  <a href="https://twitter.com/drayayik">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+   <a href="https://scholar.google.com/citations?user=RHGyDE0AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+
+</p>
+
 # About Me
 
 ## AI Researcher | Information Retrieval | Document Understanding | Recommender Engine 
-
 Business account: https://github.com/apdulahyayik
 
 Welcome to my GitHub profile! I am an AI researcher with a strong focus on cutting-edge technologies and solutions in the fields of Information Retrieval, Recommender Engines, Search Engines, and Document Understanding using Artificial Intelligence. 
@@ -15,11 +27,6 @@ With a passion for solving complex problems and a commitment to advancing the fi
 - **Recommender Engines**: I specialize in building personalized recommendation systems that provide users with tailored content or products. These systems help enhance user experiences and drive engagement.
 
 - **Document Understanding with AI**: I focus on utilizing AI to extract structured information from unstructured text. This includes tasks like sentiment analysis, topic modeling, and document classification.
-
-
-## My Contributions
-
-Here on GitHub, you'll find a collection of projects, code snippets, and research findings related to my work. Feel free to explore and use these resources as references for your own projects or research endeavors.
 
 ## Let's Collaborate
 
