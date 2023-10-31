@@ -27,5 +27,5 @@ I'm always open to collaborations, discussions, and knowledge sharing. If you're
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/apdullahyayik/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/apdullahyayik/)
 - Email: apdullahyayik@gmail.com
