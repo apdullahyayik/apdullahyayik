@@ -2,6 +2,8 @@
 
 ## AI Researcher | Information Retrieval | Document Understanding | Recommender Engine 
 
+Business account: https://github.com/apdulahyayik
+
 Welcome to my GitHub profile! I am an AI researcher with a strong focus on cutting-edge technologies and solutions in the fields of Information Retrieval, Recommender Engines, Search Engines, and Document Understanding using Artificial Intelligence. 
 
 With a passion for solving complex problems and a commitment to advancing the field of AI, I am dedicated to creating innovative and practical solutions that enhance the way we interact with and extract knowledge from vast datasets.
